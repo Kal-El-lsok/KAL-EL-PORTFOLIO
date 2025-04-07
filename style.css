@@ -228,27 +228,7 @@
      to{
          border-left: 3px solid #b74b4b;
      }
- }
-
- eyframes words{
-     0%, 20%{
-         content: "WEB DEVELOPER";
-     }
-     21%, 40%{
-         content: "GAME Developer";
-     }
-     41%, 60%{
-         content: " W HAT HACKER";
-     }
-     61%, 80%{
-         content: "ROBOTIC ENGINEER";
-     }
-     81%, 100%{
-         content: "Software Developer";
-     }
- }
-
- @media(max-width:1000px){
+@media (width:1000px){
      .home{
         gap: 4rem;
      }
